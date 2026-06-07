@@ -1,1 +1,1 @@
-"""Dashboard package for manual review."""
+"Dashboard package for manual review "
