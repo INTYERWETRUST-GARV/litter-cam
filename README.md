@@ -1,1 +1,1 @@
-changing this for a projecty i am building will let you guys know the outcome but happy to be here
+changing of this program is moslty done on my pc and then uploaded to the github so the progress would be in small steps and suggestions are very much appreciated
