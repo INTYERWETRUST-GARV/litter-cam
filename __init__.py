@@ -1,1 +1,1 @@
-"Dashboard package for manual review "
+"""API package for littering MVP."""
