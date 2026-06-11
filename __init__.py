@@ -1,1 +1,1 @@
-"""API package for littering MVP."""
+"""Inference package for littering MVP."""
